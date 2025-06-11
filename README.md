@@ -38,6 +38,7 @@ A real-time CNN-based system for detecting and monitoring forest fires and smoke
 
 
 git clone https://github.com/samanvitha-k/forest-fire-recognition-and-monitoring-system.git
+
 cd forest-fire-recognition-and-monitoring-system
 
 2️⃣ **Create and activate a virtual environment**
