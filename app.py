@@ -16,8 +16,8 @@ img_height = 180
 img_width = 180
 
 # Telegram Bot Token and Chat ID
-TOKEN = "7999244610:AAH0ENWbM_Lgu-DzXK-mBmlF0XKs2IrBL-c"  # Replace with your bot's API token
-CHAT_ID = "1401877732"  # Replace with your chat ID
+TOKEN =   # Replace with your bot's API token
+CHAT_ID = # Replace with your chat ID
 
 # Function to send a message via Telegram Bot
 def send_telegram_message(message):
