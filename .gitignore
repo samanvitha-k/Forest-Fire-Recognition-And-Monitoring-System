@@ -1,0 +1,34 @@
+# Ignore videos and images
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore dataset folders if you have them
+Testing\ Data/
+Training\ Data/
+Validation\ Data/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Venvs
+.venv/
+venv/
+venv-py310/
+
+# Logs
+*.log
+*.tmp
