@@ -19,7 +19,7 @@ A real-time CNN-based system for detecting and monitoring forest fires and smoke
 
 ✅ Upload images for classification as **Fire**, **Smoke**, or **Safe**  
 ✅ Real-time webcam-based fire and smoke detection  
-✅ Deep learning-based classification using a custom CNN model  
+✅ Deep learning-based classification using a custom CNN model - Keras
 ✅ User-friendly web interface built with Streamlit  
 ✅ High model accuracy (~99.8%) on test data  
 ✅ Lightweight and efficient design for easy deployment  
