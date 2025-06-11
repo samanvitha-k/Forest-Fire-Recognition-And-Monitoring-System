@@ -1,6 +1,6 @@
 # Forest Fire Recognition and Monitoring System 🔥🌲
 
-A real-time CNN-based system for detecting and monitoring forest fires and smoke using image classification and video frame analysis.
+A real-time CNN-based system for detecting and monitoring forest fires and smoke using image classification and  live video frame analysis using a webcam.
 
 ## Table of Contents
 
