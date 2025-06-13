@@ -36,13 +36,14 @@ A real-time CNN-based system for detecting and monitoring forest fires and smoke
 
 1️⃣ **Clone the repository**
 
-
+```bash
 git clone https://github.com/samanvitha-k/forest-fire-recognition-and-monitoring-system.git
 
 cd forest-fire-recognition-and-monitoring-system
+```
 
 2️⃣ **Create and activate a virtual environment**
-
+```bash
 # Windows
 python -m venv venv
 venv\Scripts\activate
@@ -50,12 +51,13 @@ venv\Scripts\activate
 # macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
+```
 
 3️⃣ **Install required dependencies**
 
-
+```bash
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
@@ -63,9 +65,10 @@ pip install -r requirements.txt
 
 For image-based fire and smoke classification:
 
-
+```bash
 cd code
 streamlit run app.py
+```
 
 * Open your browser at [http://localhost:8501](http://localhost:8501)
 * Upload an image and get instant classification results
@@ -73,11 +76,11 @@ streamlit run app.py
 ### Real-Time Webcam Detection
 
 For real-time detection of fire and smoke using webcam:
-
+```bash
 python code/camera.py
 # or
 python code/camera1.py
-
+```
 
 ## Web Interface
 
